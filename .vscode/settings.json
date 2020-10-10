@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/a3ddb24d-0b3d-4c59-aca1-b9cdc680b8d4/resourceGroups/bioseguridad/providers/Microsoft.Web/sites/covid19"
+}
